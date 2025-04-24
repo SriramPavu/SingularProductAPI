@@ -13,3 +13,8 @@ Any challenges you faced and how you solved them
 
 Data isn’t reaching the front‑end—the app throws connection‑string errors and can’t open the database.
 In the controller, an “invalid object reference” error from DbContext suggests the table (or view) doesn’t exist or the model is mis‑mapped. 3.Data does come through, but the JSON format is incorrect.
+OutPut:
+
+https://github.com/user-attachments/assets/fb95aa7e-ce64-4855-9908-794f74f92ddd
+
+
