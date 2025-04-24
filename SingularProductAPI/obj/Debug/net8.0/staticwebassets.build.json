@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ACG4i39iBd+0HNG6yG6AzGNdQMH2SzNm3flfTZgBpWc=",
+  "Source": "SingularProductsAPI",
+  "BasePath": "_content/SingularProductsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

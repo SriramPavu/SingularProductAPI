@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "SingularProductsAPI.Controllers.ProductSalesController",
+    "Method": "GetProductsDetails",
+    "RelativePath": "api/ProductSales/details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SingularProductsAPI.Models.Product, SingularProductsAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SingularProductsAPI.Controllers.ProductSalesController",
+    "Method": "GetProductssales",
+    "RelativePath": "api/ProductSales/sales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SingularProductsAPI.Models.ProductSales, SingularProductsAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
